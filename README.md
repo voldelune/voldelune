@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 
+- 👋 Hi, I’m Voldelune
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on anything.
+
 
 <!---
 average-geek/average-geek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
